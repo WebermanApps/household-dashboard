@@ -1,0 +1,97 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Household Command Center</title><meta name="color-scheme" content="light"><meta name="theme-color" content="#FFFFFF"><meta name="robots" content="noindex">
+<link rel="icon" href="household.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Khand:wght@600;700&family=Hind:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://webermanapps.github.io/style-swipe/kit/dash-theme.css?v=cc5">
+<link rel="stylesheet" href="https://webermanapps.github.io/style-swipe/kit/deck-shelf.css?v=5">
+<link rel="stylesheet" href="https://webermanapps.github.io/style-swipe/kit/routines-section.css?v=3">
+<style>
+:root{--ink:#0A0A0A;--mut:#737373;--bg2:#FAF6EE;--bd:#e3ddd2;--line:#e5e5e5;--pri:#171717;--jg:#0B6E4F}
+*{box-sizing:border-box}html{-webkit-text-size-adjust:100%}
+body{margin:0;background:#fff;color:var(--ink);font-family:Hind,system-ui,sans-serif;font-size:16px;line-height:1.5}
+.wrap{max-width:1100px;margin:0 auto;padding:0 16px 28px}
+h1,h2,h3{font-family:Khand,Hind,sans-serif;font-weight:700;line-height:1.15}
+.tbar{display:flex;align-items:center;gap:12px;min-height:56px;border-bottom:1px solid var(--line);position:sticky;top:0;background:#fff;z-index:5}
+.tbar .home{display:inline-flex;align-items:center;min-height:44px;color:var(--ink);text-decoration:none;font-weight:600}
+.tbar .nm{font-family:Khand,sans-serif;font-weight:700;font-size:1.1rem}
+.tbar .upd{margin-left:auto;font-size:.8rem;color:var(--jg);background:#EEF6F1;border:1px solid #cfe5d8;padding:2px 8px;white-space:nowrap}
+.shic{width:44px;height:44px;border:1px solid var(--bd);background:var(--bg2);display:inline-flex;align-items:center;justify-content:center;cursor:pointer;border-radius:0}
+.shic svg{width:20px;height:20px;fill:none;stroke:#2B2B2B;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.mw-cc-logo img{width:72px;height:72px;display:block}
+section.blk{margin-top:24px}
+section.blk>h2{font-size:1.6rem;margin:0 0 10px}
+.todo-form{display:flex;gap:8px}
+.todo-form input{flex:1;min-width:0;min-height:48px;font:inherit;font-size:16px;padding:10px 12px;border:1px solid var(--bd);background:#fff;border-radius:0;color:var(--ink)}
+.todo-form input:focus{outline:2px solid var(--pri);outline-offset:-1px}
+.todo-form button{min-height:48px;padding:0 20px;font-family:Khand,sans-serif;font-weight:700;font-size:1.1rem;letter-spacing:.06em;text-transform:uppercase;background:var(--pri);color:#fff;border:2px solid var(--pri);border-radius:0;cursor:pointer}
+.todo-list{list-style:none;margin:12px 0 0;padding:0;display:grid;gap:8px}
+.todo{display:flex;align-items:center;gap:10px;padding:6px 6px 6px 10px;border:1px solid var(--bd);background:#fff;border-left:4px solid var(--bd)}
+.todo.done{background:var(--bg2)}.todo.done .tx{text-decoration:line-through;color:var(--mut)}
+.todo label{display:flex;align-items:center;gap:10px;flex:1;min-width:0;min-height:44px;cursor:pointer}
+.todo input[type=checkbox]{width:22px;height:22px;accent-color:var(--jg);flex:none;margin:0}
+.todo .tx{overflow-wrap:anywhere}
+.todo .dt{font-size:.8rem;color:var(--mut);white-space:nowrap;margin-left:auto}
+.todo .pend{font-size:.75rem;color:var(--mut);white-space:nowrap}
+.todo .del{width:44px;height:44px;flex:none;border:0;background:transparent;cursor:pointer;display:inline-flex;align-items:center;justify-content:center}
+.todo .del svg{width:18px;height:18px;stroke:#737373;stroke-width:2;fill:none;stroke-linecap:round}
+.todo .del:hover svg{stroke:#C1502E}
+.empty{color:var(--mut);margin:12px 0 0}
+.hint{font-size:.85rem;color:var(--mut);margin:8px 0 0}
+#toast{position:fixed;left:50%;top:70px;transform:translateX(-50%);background:var(--pri);color:#fff;padding:6px 14px;font-size:.9rem;opacity:0;transition:opacity .2s;pointer-events:none}#toast.on{opacity:1}
+.mw-hover{transition:transform 180ms ease-out}.mw-hover:hover{transform:translateY(-1px)}
+@media(prefers-reduced-motion:reduce){.mw-hover,.mw-hover:hover{transition:none;transform:none}}
+@media(max-width:480px){.tbar .upd{display:none}.todo .dt{display:none}}
+@media(min-width:1800px){.wrap{max-width:1280px}body{font-size:18px}}
+</style></head><body><main class="wrap">
+<header class="tbar" aria-label="Top Bar"><a class="home mw-hover" href="https://webermanapps.github.io/a-o956qercs5ubd57y/">← Apps Home</a><span class="nm">Household</span><span class="upd" id="upd">Updated Oct 15, 2:50 PM ICT</span></header>
+<div class="mw-cc-header"><div class="mw-cc-logo"><img src="household.svg" alt="Household logo" width="72" height="72"></div><div class="mw-cc-text"><h1 class="mw-cc-title">Household Command Center</h1><p class="mw-cc-desc">Helps Max, Nozomi and Maple keep track of home items, chores and household to-dos.</p></div></div>
+<section data-shelf="shelf.json" id="ready-to-swipe" aria-label="Ready To Swipe"></section>
+<section class="blk" id="todo" aria-labelledby="todo-h"><h2 id="todo-h">To-Do</h2>
+<div class="mw-blocks"><div class="mw-block">
+<form class="todo-form" id="todo-form" autocomplete="off"><input id="todo-in" type="text" maxlength="300" placeholder="Add a household task" aria-label="New task" enterkeyhint="done"><button type="submit" class="mw-hover">Add</button></form>
+<ul class="todo-list" id="todo-list"></ul><p class="empty" id="todo-empty">No tasks yet. Add one above.</p>
+<p class="hint">Shared with Nozomi. New tasks go to Household, which asks Grok Bot to assign them.</p>
+</div></div></section>
+<footer class="mw-footer"><div class="mw-footer-bar"><button id="share" class="mw-btn mw-hover" type="button" aria-label="Share this dashboard">Share</button><a href="https://maxweberman.com">Built by Max Weberman</a></div>
+<section data-routines="routines.json" id="routines" aria-label="Routines"></section></footer>
+<div id="toast" role="status" aria-live="polite"></div>
+</main>
+<script src="submit.js?v=hh1"></script>
+<script src="https://webermanapps.github.io/style-swipe/kit/deck-shelf.js?v=5" defer></script>
+<script src="https://webermanapps.github.io/style-swipe/kit/routines-section.js?v=3" defer></script>
+<script>
+function toast(t){const e=document.getElementById('toast');e.textContent=t;e.classList.add('on');clearTimeout(toast.t);toast.t=setTimeout(()=>e.classList.remove('on'),1800)}
+document.getElementById('share').onclick=async()=>{const u=location.href.split('#')[0],t='Household Command Center';
+if(navigator.share){try{await navigator.share({title:t,url:u});return}catch(e){if(e.name==='AbortError')return}}
+if(/iPhone|iPad|Android/i.test(navigator.userAgent)){location.href='sms:?&body='+encodeURIComponent(t+' '+u);return}
+try{await navigator.clipboard.writeText(t+' '+u);toast('Link copied')}catch(e){prompt('Copy link',u)}};
+/* To-Do: shared list. Writes go through MWSubmit (agent 'household', deck 'todo') to the shared receiver;
+   the box sync (/workspace/household/sync_todos.py) folds them into todos.json and republishes. Pending ops show right away from this device. */
+(()=>{const PK='household-todo-pending',$=id=>document.getElementById(id);let server={todos:[],applied_ops:[]};
+const pend=()=>{try{return JSON.parse(localStorage.getItem(PK)||'[]')}catch(_){return[]}};const setP=a=>{try{localStorage.setItem(PK,JSON.stringify(a))}catch(_){}};
+const uid=()=>Date.now().toString(36)+Math.random().toString(36).slice(2,8);
+function view(){const ap=new Set(server.applied_ops||[]);const P=pend().filter(o=>!ap.has(o.op_id));setP(P);
+ const m=new Map((server.todos||[]).filter(t=>!t.deleted).map(t=>[t.id,Object.assign({},t)]));
+ P.forEach(o=>{if(o.op==='add'&&!m.has(o.id))m.set(o.id,{id:o.id,text:o.text,added_at:o.at,done:false,pending:true});
+  else if(o.op==='done'&&m.has(o.id)){m.get(o.id).done=true;m.get(o.id).pending=true}
+  else if(o.op==='undone'&&m.has(o.id)){m.get(o.id).done=false;m.get(o.id).pending=true}
+  else if(o.op==='delete')m.delete(o.id)});
+ const L=[...m.values()].sort((a,b)=>(a.done-b.done)||String(b.added_at).localeCompare(String(a.added_at)));
+ const ul=$('todo-list');ul.textContent='';$('todo-empty').hidden=L.length>0;
+ L.forEach(t=>{const li=document.createElement('li');li.className='todo'+(t.done?' done':'');
+  const lb=document.createElement('label'),cb=document.createElement('input');cb.type='checkbox';cb.checked=!!t.done;cb.setAttribute('aria-label','Done: '+t.text);
+  cb.onchange=()=>op({op:cb.checked?'done':'undone',id:t.id});
+  const sp=document.createElement('span');sp.className='tx';sp.textContent=t.text;lb.append(cb,sp);
+  const dt=document.createElement('span');dt.className=t.pending?'pend':'dt';
+  dt.textContent=t.pending?'Syncing':new Date(t.added_at).toLocaleDateString('en-US',{month:'short',day:'numeric'});
+  const del=document.createElement('button');del.type='button';del.className='del';del.setAttribute('aria-label','Delete: '+t.text);
+  del.innerHTML='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>';del.onclick=()=>op({op:'delete',id:t.id});
+  li.append(lb,dt,del);ul.append(li)})}
+async function op(o){o.op_id=uid();o.at=new Date().toISOString();setP(pend().concat([o]));view();
+ const ok=await MWSubmit.send({agent:'household',app:'household-dashboard',deck:'todo',results:o});
+ if(!ok&&MWSubmit.blocked){setP(pend().filter(x=>x.op_id!==o.op_id));view();toast('Password needed. Not saved.')}
+ else toast(ok?'Saved':'Saved on this device, will retry')}
+$('todo-form').addEventListener('submit',e=>{e.preventDefault();const v=$('todo-in').value.trim();if(!v)return;$('todo-in').value='';op({op:'add',id:'t-'+uid(),text:v})});
+function load(){fetch('todos.json?'+Date.now()).then(r=>r.json()).then(J=>{server=J;view()}).catch(view)}
+load();setInterval(load,60000);addEventListener('focus',load);})();
+</script></body></html>
