@@ -43,14 +43,15 @@
    "blurb": "20 cards, ready now"
   },
   {
-   "id": "household-maple-baby-days",
-   "name": "Maple Baby Days Deck",
-   "url": "https://webermanapps.github.io/style-swipe/household-maple-baby-days-aahg0i/",
+   "id": "household-maple-baby-deck",
+   "name": "Maple Deck",
+   "url": "https://webermanapps.github.io/style-swipe/household-maple-baby-yif5ah/",
    "total": 20,
    "topic": "household-maple",
-   "added": "2026-10-16T03:40:00+07:00",
+   "added": "2026-10-15T14:51:00+07:00",
    "tag": "Maple",
-   "blurb": "20 fresh cards for Maple (8 months), ready now"
+   "refill": true,
+   "blurb": "20 cards for an 8-month-old, 2 reworded from last time"
   }
  ],
  "done": [
