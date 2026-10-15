@@ -2,7 +2,7 @@
 <title>Household Command Center</title><meta name="color-scheme" content="light"><meta name="theme-color" content="#FFFFFF"><meta name="robots" content="noindex">
 <link rel="icon" href="household.svg" type="image/svg+xml"><link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png"><link rel="manifest" href="manifest.webmanifest"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="Household"><meta name="apple-mobile-web-app-status-bar-style" content="default">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Khand:wght@600;700&family=Hind:wght@400;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://webermanapps.github.io/style-swipe/kit/dash-theme.css?v=cc5">
+<link rel="stylesheet" href="https://webermanapps.github.io/style-swipe/kit/dash-theme.css?v=cc6">
 <link rel="stylesheet" href="https://webermanapps.github.io/style-swipe/kit/deck-shelf.css?v=5">
 <link rel="stylesheet" href="https://webermanapps.github.io/style-swipe/kit/routines-section.css?v=3">
 <style>
@@ -18,7 +18,7 @@ h1,h2,h3{font-family:Khand,Hind,sans-serif;font-weight:700;line-height:1.15}
 .shic{width:44px;height:44px;border:1px solid var(--bd);background:var(--bg2);display:inline-flex;align-items:center;justify-content:center;cursor:pointer;border-radius:0}
 .shic svg{width:20px;height:20px;fill:none;stroke:#2B2B2B;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
 .mw-cc-logo img{width:72px;height:72px;display:block}
-section.blk{margin-top:24px}
+
 section.blk>h2{font-size:1.6rem;margin:0 0 10px}
 .todo-form{display:flex;gap:8px}
 .todo-form input{flex:1;min-width:0;min-height:48px;font:inherit;font-size:16px;padding:10px 12px;border:1px solid var(--bd);background:#fff;border-radius:0;color:var(--ink)}
@@ -54,8 +54,9 @@ section.blk>h2{font-size:1.6rem;margin:0 0 10px}
 @media(prefers-reduced-motion:reduce){.mw-hover,.mw-hover:hover{transition:none;transform:none}}
 @media(max-width:480px){.tbar .upd{display:none}.todo .dt{display:none}}
 @media(min-width:1800px){.wrap{max-width:1280px}body{font-size:18px}}
-</style></head><body><main class="wrap">
+</style></head><body><div class="wrap">
 <header class="tbar" aria-label="Top Bar"><a class="home mw-hover" href="https://webermanapps.github.io/a-o956qercs5ubd57y/">← Apps Home</a><span class="nm">Household</span><span class="upd" id="upd">Updated Oct 15, 2:50 PM ICT</span><button id="a2hs" class="a2hs mw-hover" type="button" hidden aria-label="Add to Home Screen"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="4" width="16" height="16"/><path d="M12 8v8M8 12h8"/></svg><span>Add<span class="lbl2"> to Home Screen</span></span></button></header>
+<main class="mw-sections">
 <div class="mw-cc-header"><div class="mw-cc-logo"><img src="household.svg" alt="Household logo" width="72" height="72"></div><div class="mw-cc-text"><h1 class="mw-cc-title">Household Command Center</h1><p class="mw-cc-desc">Helps Max, Nozomi and Maple keep track of home items, chores and household to-dos.</p></div></div>
 <section data-shelf="shelf.json" id="ready-to-swipe" aria-label="Ready To Swipe"></section>
 <section class="blk" id="todo" aria-labelledby="todo-h"><h2 id="todo-h">To-Do</h2>
@@ -66,8 +67,9 @@ section.blk>h2{font-size:1.6rem;margin:0 0 10px}
 </div></div></section>
 <footer class="mw-footer"><div class="mw-footer-bar"><button id="share" class="mw-btn mw-hover" type="button" aria-label="Share this dashboard">Share</button><a href="https://maxweberman.com">Built by Max Weberman</a></div>
 <section data-routines="routines.json" id="routines" aria-label="Routines"></section></footer>
-<div id="toast" role="status" aria-live="polite"></div>
 </main>
+<div id="toast" role="status" aria-live="polite"></div>
+</div>
 <script src="submit.js?v=hh1"></script>
 <script src="https://webermanapps.github.io/style-swipe/kit/deck-shelf.js?v=5" defer></script>
 <script src="https://webermanapps.github.io/style-swipe/kit/routines-section.js?v=3" defer></script>
