@@ -1,1 +1,56 @@
-{"agent":"household","decks":[{"id":"household-home-setup","name":"Home Setup Deck","url":"https://webermanapps.github.io/style-swipe/household-home-setup-zw7po1/","total":20,"topic":"household-home-setup","added":"2026-10-15T14:37:00+07:00","tag":"Home Setup","blurb":"20 cards, ready now"}]}
+{
+ "agent": "household",
+ "decks": [
+  {
+   "id": "household-art",
+   "name": "Art Deck",
+   "url": "https://webermanapps.github.io/style-swipe/household-art-m17qcu/",
+   "total": 20,
+   "topic": "household-art",
+   "added": "2026-10-15T14:55:00+07:00",
+   "tag": "Art",
+   "blurb": "20 cards, ready now",
+   "permanent": true
+  },
+  {
+   "id": "household-home-setup",
+   "name": "Home Setup Deck",
+   "url": "https://webermanapps.github.io/style-swipe/household-home-setup-zw7po1/",
+   "total": 20,
+   "topic": "household-home-setup",
+   "added": "2026-10-15T14:54:00+07:00",
+   "tag": "Home Setup",
+   "blurb": "20 cards, ready now"
+  },
+  {
+   "id": "household-date-night",
+   "name": "Date Night Deck",
+   "url": "https://webermanapps.github.io/style-swipe/household-date-night-721oji/",
+   "total": 20,
+   "topic": "household-date-night",
+   "added": "2026-10-15T14:53:00+07:00",
+   "tag": "Date Night",
+   "blurb": "20 cards, ready now"
+  },
+  {
+   "id": "household-travel",
+   "name": "Travel Deck",
+   "url": "https://webermanapps.github.io/style-swipe/household-travel-ky3im7/",
+   "total": 20,
+   "topic": "household-travel",
+   "added": "2026-10-15T14:52:00+07:00",
+   "tag": "Travel",
+   "blurb": "20 cards, ready now"
+  },
+  {
+   "id": "household-maple",
+   "name": "Maple Deck",
+   "url": "https://webermanapps.github.io/style-swipe/household-maple-pmcpxx/",
+   "total": 20,
+   "topic": "household-maple",
+   "added": "2026-10-15T14:51:00+07:00",
+   "tag": "Maple",
+   "blurb": "20 cards, ready now"
+  }
+ ]
+}
