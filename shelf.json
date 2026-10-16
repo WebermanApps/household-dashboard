@@ -4,54 +4,53 @@
   {
    "id": "household-art",
    "name": "Art Deck",
-   "url": "https://webermanapps.github.io/style-swipe/household-art-m17qcu/",
+   "url": "https://webermanapps.github.io/style-swipe/household-art-gallery-obrlqq/",
    "total": 20,
    "topic": "household-art",
-   "added": "2026-10-15T14:55:00+07:00",
+   "added": "2026-10-16T12:20:00+07:00",
    "tag": "Art",
-   "blurb": "20 cards, ready now",
+   "blurb": "20 new artworks, ready now",
    "permanent": true
   },
   {
-   "id": "household-home-setup",
-   "name": "Home Setup Deck",
-   "url": "https://webermanapps.github.io/style-swipe/household-home-setup-zw7po1/",
+   "id": "household-home-routines",
+   "name": "Home Routines And Owners Deck",
+   "url": "https://webermanapps.github.io/style-swipe/household-home-routines-udfzex/",
    "total": 20,
    "topic": "household-home-setup",
-   "added": "2026-10-15T14:54:00+07:00",
+   "added": "2026-10-16T12:20:00+07:00",
    "tag": "Home Setup",
-   "blurb": "20 cards, ready now"
+   "blurb": "20 new cards, ready now"
   },
   {
-   "id": "household-date-night",
-   "name": "Date Night Deck",
-   "url": "https://webermanapps.github.io/style-swipe/household-date-night-721oji/",
+   "id": "household-chiang-mai-dates",
+   "name": "Chiang Mai Dates Deck",
+   "url": "https://webermanapps.github.io/style-swipe/household-chiang-mai-dates-yspsiv/",
    "total": 20,
    "topic": "household-date-night",
-   "added": "2026-10-15T14:53:00+07:00",
+   "added": "2026-10-16T12:20:00+07:00",
    "tag": "Date Night",
-   "blurb": "20 cards, ready now"
+   "blurb": "20 new cards, ready now"
   },
   {
-   "id": "household-travel",
-   "name": "Travel Deck",
-   "url": "https://webermanapps.github.io/style-swipe/household-travel-ky3im7/",
+   "id": "household-trips-near-far",
+   "name": "Trips Near And Far Deck",
+   "url": "https://webermanapps.github.io/style-swipe/household-trips-near-far-yvdwzs/",
    "total": 20,
    "topic": "household-travel",
-   "added": "2026-10-15T14:52:00+07:00",
+   "added": "2026-10-16T12:20:00+07:00",
    "tag": "Travel",
-   "blurb": "20 cards, ready now"
+   "blurb": "20 new cards, ready now"
   },
   {
-   "id": "household-maple-baby-deck",
-   "name": "Maple Deck",
-   "url": "https://webermanapps.github.io/style-swipe/household-maple-baby-yif5ah/",
+   "id": "household-maple-play-days",
+   "name": "Maple Play Days Deck",
+   "url": "https://webermanapps.github.io/style-swipe/household-maple-play-days-jtjoib/",
    "total": 20,
    "topic": "household-maple",
-   "added": "2026-10-15T14:51:00+07:00",
+   "added": "2026-10-16T12:20:00+07:00",
    "tag": "Maple",
-   "refill": true,
-   "blurb": "20 cards for an 8-month-old, 2 reworded from last time"
+   "blurb": "20 new cards for an 8-month-old"
   }
  ],
  "done": [
@@ -72,5 +71,42 @@
    "results": "/workspace/style-swipe/results/household-maple-deck.txt"
   }
  ],
- "updated": "2026-10-16T03:40:00+07:00"
+ "updated": "2026-10-16T12:20:00+07:00",
+ "replaced": [
+  {
+   "id": "household-art",
+   "name": "Art Deck",
+   "url": "https://webermanapps.github.io/style-swipe/household-art-m17qcu/",
+   "at": "2026-10-16T12:20:00+07:00",
+   "status": "Replaced by fresh round (no results on file)"
+  },
+  {
+   "id": "household-home-setup",
+   "name": "Home Setup Deck",
+   "url": "https://webermanapps.github.io/style-swipe/household-home-setup-zw7po1/",
+   "at": "2026-10-16T12:20:00+07:00",
+   "status": "Replaced by fresh round (no results on file)"
+  },
+  {
+   "id": "household-date-night",
+   "name": "Date Night Deck",
+   "url": "https://webermanapps.github.io/style-swipe/household-date-night-721oji/",
+   "at": "2026-10-16T12:20:00+07:00",
+   "status": "Replaced by fresh round (no results on file)"
+  },
+  {
+   "id": "household-travel",
+   "name": "Travel Deck",
+   "url": "https://webermanapps.github.io/style-swipe/household-travel-ky3im7/",
+   "at": "2026-10-16T12:20:00+07:00",
+   "status": "Replaced by fresh round (no results on file)"
+  },
+  {
+   "id": "household-maple-baby-deck",
+   "name": "Maple Deck",
+   "url": "https://webermanapps.github.io/style-swipe/household-maple-baby-yif5ah/",
+   "at": "2026-10-16T12:20:00+07:00",
+   "status": "Replaced by fresh round (no results on file)"
+  }
+ ]
 }
