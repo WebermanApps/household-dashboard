@@ -1,0 +1,263 @@
+{
+ "trip": {
+  "id": "jakarta-2026-10",
+  "title": "Jakarta",
+  "dates": "Fri Oct 23 to Mon Oct 26, 2026",
+  "who": "Max, Nozomi and Maple (8 months)",
+  "fixed": [
+   "Ye (Kanye West) concert Sat Oct 24, 8:00 PM, Gelora Bung Karno Main Stadium (GBK), Senayan",
+   "Babysitter for Maple on Saturday"
+  ],
+  "hotel": "not confirmed yet",
+  "free": "Friday evening through Sunday morning"
+ },
+ "open": 10,
+ "deck": "jakarta-trip",
+ "cards": [
+  {
+   "id": "fri-cafe-batavia",
+   "title": "Dinner At Cafe Batavia, Kota Tua",
+   "detail": "Colonial-era cafe on Fatahillah Square; stroller-friendly ground floor.",
+   "slot": "Fri evening",
+   "baby": true
+  },
+  {
+   "id": "fri-kaum",
+   "title": "Dinner At Kaum Jakarta, Menteng",
+   "detail": "Indonesian heritage dishes in a calm Menteng house.",
+   "slot": "Fri evening",
+   "baby": true
+  },
+  {
+   "id": "fri-gi-food",
+   "title": "Easy Mall Dinner At Grand Indonesia",
+   "detail": "Many restaurants, nursing rooms and air-con under one roof.",
+   "slot": "Fri evening",
+   "baby": true
+  },
+  {
+   "id": "sat-kota-tua",
+   "title": "Kota Tua Morning Walk",
+   "detail": "Fatahillah Square and the old Batavia buildings before the heat.",
+   "slot": "Sat day",
+   "baby": true
+  },
+  {
+   "id": "sat-gbk-forest",
+   "title": "Hutan Kota GBK Stroll",
+   "detail": "Shady city forest park in Senayan, flat paths for a stroller.",
+   "slot": "Sat day",
+   "baby": true
+  },
+  {
+   "id": "sat-aquarium",
+   "title": "Jakarta Aquarium And Safari, Neo Soho",
+   "detail": "Indoor aquarium; cool, dim and easy with a carrier.",
+   "slot": "Sat day",
+   "baby": true
+  },
+  {
+   "id": "sat-tebet-eco",
+   "title": "Tebet Eco Park",
+   "detail": "Green park with boardwalks and a children's area.",
+   "slot": "Sat day",
+   "baby": true
+  },
+  {
+   "id": "sat-pre-hutan-kota",
+   "title": "Pre-Concert Dinner At Hutan Kota By Plataran",
+   "detail": "Garden restaurant inside GBK, walking distance to the stadium.",
+   "slot": "Sat pre-concert dinner",
+   "baby": false
+  },
+  {
+   "id": "sat-pre-senayan-city",
+   "title": "Pre-Concert Dinner At Senayan City",
+   "detail": "Mall restaurants right across from GBK; easy before the show.",
+   "slot": "Sat pre-concert dinner",
+   "baby": false
+  },
+  {
+   "id": "sun-car-free-day",
+   "title": "Sunday Car Free Day, Sudirman-Thamrin",
+   "detail": "Main boulevard closed to cars on Sunday mornings; stroll with the stroller.",
+   "slot": "Sun morning",
+   "baby": true
+  },
+  {
+   "id": "sun-hyatt-brunch",
+   "title": "Sunday Brunch At Grand Hyatt Jakarta",
+   "detail": "Big hotel brunch near Bundaran HI; high chairs on hand.",
+   "slot": "Sun morning",
+   "baby": true
+  },
+  {
+   "id": "sun-suropati",
+   "title": "Taman Suropati, Menteng",
+   "detail": "Small leafy park; Sunday morning music and shade.",
+   "slot": "Sun morning",
+   "baby": true
+  },
+  {
+   "id": "fri-skye",
+   "title": "Drinks At SKYE, Menara BCA",
+   "detail": "Rooftop bar view over Thamrin; better without the baby.",
+   "slot": "Fri evening",
+   "baby": false
+  },
+  {
+   "id": "fri-tugu-kunstkring",
+   "title": "Dinner At Tugu Kunstkring Paleis",
+   "detail": "Art-deco landmark in Menteng with Indonesian dishes.",
+   "slot": "Fri evening",
+   "baby": true
+  },
+  {
+   "id": "sat-national-museum",
+   "title": "National Museum (Museum Gajah)",
+   "detail": "Indonesian history in an air-conditioned museum by Monas.",
+   "slot": "Sat day",
+   "baby": true
+  },
+  {
+   "id": "sat-monas",
+   "title": "Monas And Merdeka Square",
+   "detail": "National Monument park; early visit before the midday sun.",
+   "slot": "Sat day",
+   "baby": true
+  },
+  {
+   "id": "sat-ancol-seaworld",
+   "title": "Sea World Ancol",
+   "detail": "Aquarium tunnel by the bay in North Jakarta; longer drive.",
+   "slot": "Sat day",
+   "baby": true
+  },
+  {
+   "id": "sat-lapangan-banteng",
+   "title": "Lapangan Banteng Park",
+   "detail": "Central park with open lawns and a fountain area.",
+   "slot": "Sat day",
+   "baby": true
+  },
+  {
+   "id": "sat-pi-mall",
+   "title": "Plaza Indonesia And Baby Rooms",
+   "detail": "Calm luxury mall; good nap stop and air-con break.",
+   "slot": "Sat day",
+   "baby": true
+  },
+  {
+   "id": "sat-babysitter-handover",
+   "title": "Babysitter Handover At Hotel",
+   "detail": "Sitter arrives early afternoon so Maple settles before you leave.",
+   "slot": "Sat pre-concert dinner",
+   "baby": true
+  },
+  {
+   "id": "sat-pre-fx",
+   "title": "Pre-Concert Bite At FX Sudirman",
+   "detail": "Casual food hall a short walk to GBK.",
+   "slot": "Sat pre-concert dinner",
+   "baby": false
+  },
+  {
+   "id": "sat-pre-plaza-senayan",
+   "title": "Pre-Concert Dinner At Plaza Senayan",
+   "detail": "Sit-down restaurants next to GBK, quick walk to the gates.",
+   "slot": "Sat pre-concert dinner",
+   "baby": false
+  },
+  {
+   "id": "sun-tanamera",
+   "title": "Coffee At Tanamera Coffee",
+   "detail": "Indonesian specialty coffee and light breakfast.",
+   "slot": "Sun morning",
+   "baby": true
+  },
+  {
+   "id": "sun-common-grounds",
+   "title": "Brunch At Common Grounds",
+   "detail": "Popular Jakarta brunch cafe; book a table.",
+   "slot": "Sun morning",
+   "baby": true
+  },
+  {
+   "id": "sun-pi-brunch",
+   "title": "Late Brunch In A Mall",
+   "detail": "Grand Indonesia or Pacific Place before the airport.",
+   "slot": "Sun morning",
+   "baby": true
+  },
+  {
+   "id": "fri-hotel-room-service",
+   "title": "Quiet Night In At The Hotel",
+   "detail": "Room service and early sleep after the flight.",
+   "slot": "Fri evening",
+   "baby": true
+  },
+  {
+   "id": "fri-satay",
+   "title": "Street Satay Dinner, Sabang Street",
+   "detail": "Jalan Haji Agus Salim food street; casual and loud.",
+   "slot": "Fri evening",
+   "baby": false
+  },
+  {
+   "id": "sat-nap-break",
+   "title": "Hotel Nap Break For Maple",
+   "detail": "Back to the hotel midday so Maple naps before the sitter.",
+   "slot": "Sat day",
+   "baby": true
+  },
+  {
+   "id": "sat-spark",
+   "title": "Senayan Park (SPARK)",
+   "detail": "Open-air lifestyle park near GBK with a lake.",
+   "slot": "Sat day",
+   "baby": true
+  },
+  {
+   "id": "sat-wayang-museum",
+   "title": "Wayang Museum, Kota Tua",
+   "detail": "Puppet museum off Fatahillah Square; short visit.",
+   "slot": "Sat day",
+   "baby": true
+  },
+  {
+   "id": "sun-hotel-pool",
+   "title": "Morning Swim At The Hotel Pool",
+   "detail": "Short shaded splash for Maple before checkout.",
+   "slot": "Sun morning",
+   "baby": true
+  },
+  {
+   "id": "sun-gbk-jog",
+   "title": "GBK Morning Walk",
+   "detail": "Senayan track and park area busy with Sunday walkers.",
+   "slot": "Sun morning",
+   "baby": true
+  },
+  {
+   "id": "mon-airport-early",
+   "title": "Leave Early For The Airport Monday",
+   "detail": "Jakarta traffic: allow extra time to Soekarno-Hatta.",
+   "slot": "Mon",
+   "baby": true
+  },
+  {
+   "id": "sat-concert-transport",
+   "title": "Concert Getting There: Car Or Walk",
+   "detail": "Book a car home, or a hotel within walking distance of GBK.",
+   "slot": "Sat pre-concert dinner",
+   "baby": false
+  },
+  {
+   "id": "fri-pacific-place",
+   "title": "Dinner At Pacific Place, SCBD",
+   "detail": "Mall dining in SCBD; easy with a stroller.",
+   "slot": "Fri evening",
+   "baby": true
+  }
+ ]
+}
