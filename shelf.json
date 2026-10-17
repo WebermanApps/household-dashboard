@@ -2,55 +2,126 @@
  "agent": "household",
  "decks": [
   {
-   "id": "household-art",
-   "name": "Art Deck",
-   "url": "https://webermanapps.github.io/style-swipe/household-art-gallery-obrlqq/",
-   "total": 20,
+   "id": "household-art-gallery-deck-impressionism-still-life",
+   "name": "Art: Paintings & Prints",
+   "url": "https://webermanapps.github.io/style-swipe/household-art-gallery-deck-impressionism-still-life-5lc32w/",
+   "total": 10,
    "topic": "household-art",
-   "added": "2026-10-16T12:20:00+07:00",
+   "added": "2026-10-17T08:05:35+07:00",
    "tag": "Art",
-   "blurb": "20 new artworks, ready now",
-   "permanent": true
+   "permanent": true,
+   "answered": 0,
+   "split_from": "household-art-gallery-deck",
+   "blurb": "10 cards, ready now"
   },
   {
-   "id": "household-home-routines",
-   "name": "Home Routines And Owners Deck",
-   "url": "https://webermanapps.github.io/style-swipe/household-home-routines-udfzex/",
-   "total": 20,
+   "id": "household-art-gallery-deck-flowers-american-landscape",
+   "name": "Art: Flowers, Sculpture & Design",
+   "url": "https://webermanapps.github.io/style-swipe/household-art-gallery-deck-flowers-american-landscape-rsyiya/",
+   "total": 10,
+   "topic": "household-art",
+   "added": "2026-10-17T08:05:35+07:00",
+   "tag": "Art",
+   "permanent": true,
+   "answered": 0,
+   "split_from": "household-art-gallery-deck",
+   "blurb": "10 cards, ready now"
+  },
+  {
+   "id": "household-home-routines-deck-who-owns-what-help-areas",
+   "name": "Home Routines: Who Owns What & Help Areas",
+   "url": "https://webermanapps.github.io/style-swipe/household-home-routines-deck-who-owns-what-help-areas-iezpk8/",
+   "total": 10,
    "topic": "household-home-setup",
-   "added": "2026-10-16T12:20:00+07:00",
+   "added": "2026-10-17T08:05:35+07:00",
    "tag": "Home Setup",
-   "blurb": "20 new cards, ready now"
+   "answered": 0,
+   "split_from": "household-home-routines-deck",
+   "blurb": "10 cards, ready now"
   },
   {
-   "id": "household-chiang-mai-dates",
-   "name": "Chiang Mai Dates Deck",
-   "url": "https://webermanapps.github.io/style-swipe/household-chiang-mai-dates-yspsiv/",
-   "total": 20,
+   "id": "household-home-routines-deck-reminders-home-systems",
+   "name": "Home Routines: Reminders & Home Systems",
+   "url": "https://webermanapps.github.io/style-swipe/household-home-routines-deck-reminders-home-systems-1cn20x/",
+   "total": 10,
+   "topic": "household-home-setup",
+   "added": "2026-10-17T08:05:35+07:00",
+   "tag": "Home Setup",
+   "answered": 0,
+   "split_from": "household-home-routines-deck",
+   "blurb": "10 cards, ready now"
+  },
+  {
+   "id": "household-chiang-mai-dates-deck-activities-culture",
+   "name": "Date Ideas: Outdoors & Dinner",
+   "url": "https://webermanapps.github.io/style-swipe/household-chiang-mai-dates-deck-activities-culture-h6ehpz/",
+   "total": 10,
    "topic": "household-date-night",
-   "added": "2026-10-16T12:20:00+07:00",
+   "added": "2026-10-17T08:05:35+07:00",
    "tag": "Date Night",
-   "blurb": "20 new cards, ready now"
+   "answered": 0,
+   "split_from": "household-chiang-mai-dates-deck",
+   "blurb": "10 cards, ready now"
   },
   {
-   "id": "household-trips-near-far",
-   "name": "Trips Near And Far Deck",
-   "url": "https://webermanapps.github.io/style-swipe/household-trips-near-far-yvdwzs/",
-   "total": 20,
+   "id": "household-chiang-mai-dates-deck-outdoors-dinner",
+   "name": "Date Ideas: Activities & Culture",
+   "url": "https://webermanapps.github.io/style-swipe/household-chiang-mai-dates-deck-outdoors-dinner-9fz0rz/",
+   "total": 10,
+   "topic": "household-date-night",
+   "added": "2026-10-17T08:05:35+07:00",
+   "tag": "Date Night",
+   "answered": 0,
+   "split_from": "household-chiang-mai-dates-deck",
+   "blurb": "10 cards, ready now"
+  },
+  {
+   "id": "household-trips-near-far-deck-far-away-nearby-countries",
+   "name": "Trips: Far Away & Nearby Countries",
+   "url": "https://webermanapps.github.io/style-swipe/household-trips-near-far-deck-far-away-nearby-countries-8bqhkm/",
+   "total": 10,
    "topic": "household-travel",
-   "added": "2026-10-16T12:20:00+07:00",
+   "added": "2026-10-17T08:05:35+07:00",
    "tag": "Travel",
-   "blurb": "20 new cards, ready now"
+   "answered": 0,
+   "split_from": "household-trips-near-far-deck",
+   "blurb": "10 cards, ready now"
   },
   {
-   "id": "household-maple-play-days",
-   "name": "Maple Play Days Deck",
-   "url": "https://webermanapps.github.io/style-swipe/household-maple-play-days-jtjoib/",
-   "total": 20,
+   "id": "household-trips-near-far-deck-close-by-trip-style",
+   "name": "Trips: Close By & Trip Style",
+   "url": "https://webermanapps.github.io/style-swipe/household-trips-near-far-deck-close-by-trip-style-1ep7ni/",
+   "total": 10,
+   "topic": "household-travel",
+   "added": "2026-10-17T08:05:35+07:00",
+   "tag": "Travel",
+   "answered": 0,
+   "split_from": "household-trips-near-far-deck",
+   "blurb": "10 cards, ready now"
+  },
+  {
+   "id": "household-maple-play-days-deck-hands-outings",
+   "name": "Maple Play: Movement & Sounds",
+   "url": "https://webermanapps.github.io/style-swipe/household-maple-play-days-deck-hands-outings-ppbyer/",
+   "total": 10,
    "topic": "household-maple",
-   "added": "2026-10-16T12:20:00+07:00",
+   "added": "2026-10-17T08:05:35+07:00",
    "tag": "Maple",
-   "blurb": "20 new cards for an 8-month-old"
+   "answered": 0,
+   "split_from": "household-maple-play-days-deck",
+   "blurb": "10 cards, ready now"
+  },
+  {
+   "id": "household-maple-play-days-deck-movement-sounds",
+   "name": "Maple Play: Hands & Outings",
+   "url": "https://webermanapps.github.io/style-swipe/household-maple-play-days-deck-movement-sounds-7s1heq/",
+   "total": 10,
+   "topic": "household-maple",
+   "added": "2026-10-17T08:05:35+07:00",
+   "tag": "Maple",
+   "answered": 0,
+   "split_from": "household-maple-play-days-deck",
+   "blurb": "10 cards, ready now"
   }
  ],
  "done": [
@@ -71,7 +142,7 @@
    "results": "/workspace/style-swipe/results/household-maple-deck.txt"
   }
  ],
- "updated": "2026-10-16T12:20:00+07:00",
+ "updated": "2026-10-17T08:05:35+07:00",
  "replaced": [
   {
    "id": "household-art",
@@ -108,5 +179,92 @@
    "at": "2026-10-16T12:20:00+07:00",
    "status": "Replaced by fresh round (no results on file)"
   }
- ]
+ ],
+ "unlisted": [
+  {
+   "id": "household-art",
+   "name": "Art Deck",
+   "url": "https://webermanapps.github.io/style-swipe/household-art-gallery-obrlqq/",
+   "total": 20,
+   "topic": "household-art",
+   "added": "2026-10-16T12:20:00+07:00",
+   "tag": "Art",
+   "blurb": "20 new artworks, ready now",
+   "permanent": true,
+   "unlisted_at": "2026-10-17T08:05:35+07:00",
+   "split_into": [
+    "household-art-gallery-deck-impressionism-still-life",
+    "household-art-gallery-deck-flowers-american-landscape"
+   ],
+   "note": "R86 (Max Oct 17 2026 07:50 ICT): unanswered 20-pick deck split into two 10-pick decks; original unlisted (page, file and any votes kept)"
+  },
+  {
+   "id": "household-home-routines",
+   "name": "Home Routines And Owners Deck",
+   "url": "https://webermanapps.github.io/style-swipe/household-home-routines-udfzex/",
+   "total": 20,
+   "topic": "household-home-setup",
+   "added": "2026-10-16T12:20:00+07:00",
+   "tag": "Home Setup",
+   "blurb": "20 new cards, ready now",
+   "unlisted_at": "2026-10-17T08:05:35+07:00",
+   "split_into": [
+    "household-home-routines-deck-who-owns-what-help-areas",
+    "household-home-routines-deck-reminders-home-systems"
+   ],
+   "note": "R86 (Max Oct 17 2026 07:50 ICT): unanswered 20-pick deck split into two 10-pick decks; original unlisted (page, file and any votes kept)"
+  },
+  {
+   "id": "household-chiang-mai-dates",
+   "name": "Chiang Mai Dates Deck",
+   "url": "https://webermanapps.github.io/style-swipe/household-chiang-mai-dates-yspsiv/",
+   "total": 20,
+   "topic": "household-date-night",
+   "added": "2026-10-16T12:20:00+07:00",
+   "tag": "Date Night",
+   "blurb": "20 new cards, ready now",
+   "unlisted_at": "2026-10-17T08:05:35+07:00",
+   "split_into": [
+    "household-chiang-mai-dates-deck-activities-culture",
+    "household-chiang-mai-dates-deck-outdoors-dinner"
+   ],
+   "note": "R86 (Max Oct 17 2026 07:50 ICT): unanswered 20-pick deck split into two 10-pick decks; original unlisted (page, file and any votes kept)"
+  },
+  {
+   "id": "household-trips-near-far",
+   "name": "Trips Near And Far Deck",
+   "url": "https://webermanapps.github.io/style-swipe/household-trips-near-far-yvdwzs/",
+   "total": 20,
+   "topic": "household-travel",
+   "added": "2026-10-16T12:20:00+07:00",
+   "tag": "Travel",
+   "blurb": "20 new cards, ready now",
+   "unlisted_at": "2026-10-17T08:05:35+07:00",
+   "split_into": [
+    "household-trips-near-far-deck-far-away-nearby-countries",
+    "household-trips-near-far-deck-close-by-trip-style"
+   ],
+   "note": "R86 (Max Oct 17 2026 07:50 ICT): unanswered 20-pick deck split into two 10-pick decks; original unlisted (page, file and any votes kept)"
+  },
+  {
+   "id": "household-maple-play-days",
+   "name": "Maple Play Days Deck",
+   "url": "https://webermanapps.github.io/style-swipe/household-maple-play-days-jtjoib/",
+   "total": 20,
+   "topic": "household-maple",
+   "added": "2026-10-16T12:20:00+07:00",
+   "tag": "Maple",
+   "blurb": "20 new cards for an 8-month-old",
+   "unlisted_at": "2026-10-17T08:05:35+07:00",
+   "split_into": [
+    "household-maple-play-days-deck-hands-outings",
+    "household-maple-play-days-deck-movement-sounds"
+   ],
+   "note": "R86 (Max Oct 17 2026 07:50 ICT): unanswered 20-pick deck split into two 10-pick decks; original unlisted (page, file and any votes kept)"
+  }
+ ],
+ "cap": 10,
+ "cap_note": "R86 (Max Oct 17 2026 07:50 ICT): every shelf shows up to 10 decks (pinned included), 10 picks per deck; in-progress first, done last (kit deck-shelf.js sort)",
+ "held": [],
+ "queued": []
 }
