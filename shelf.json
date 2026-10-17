@@ -52,28 +52,30 @@
    "blurb": "10 cards, ready now"
   },
   {
-   "id": "household-chiang-mai-dates-deck-activities-culture",
+   "id": "household-chiang-mai-dates-deck-outdoors-dinner-deck",
    "name": "Date Ideas: Outdoors & Dinner",
-   "url": "https://webermanapps.github.io/style-swipe/household-chiang-mai-dates-deck-activities-culture-h6ehpz/",
+   "url": "https://webermanapps.github.io/style-swipe/household-chiang-mai-dates-deck-outdoors-dinner-deck-1op4ga/",
    "total": 10,
    "topic": "household-date-night",
    "added": "2026-10-17T08:05:35+07:00",
    "tag": "Date Night",
    "answered": 0,
    "split_from": "household-chiang-mai-dates-deck",
-   "blurb": "10 cards, ready now"
+   "blurb": "10 cards, ready now",
+   "renamed_from": "household-chiang-mai-dates-deck-activities-culture"
   },
   {
-   "id": "household-chiang-mai-dates-deck-outdoors-dinner",
+   "id": "household-chiang-mai-dates-deck-activities-culture-deck",
    "name": "Date Ideas: Activities & Culture",
-   "url": "https://webermanapps.github.io/style-swipe/household-chiang-mai-dates-deck-outdoors-dinner-9fz0rz/",
+   "url": "https://webermanapps.github.io/style-swipe/household-chiang-mai-dates-deck-activities-culture-deck-b4e491/",
    "total": 10,
    "topic": "household-date-night",
    "added": "2026-10-17T08:05:35+07:00",
    "tag": "Date Night",
    "answered": 0,
    "split_from": "household-chiang-mai-dates-deck",
-   "blurb": "10 cards, ready now"
+   "blurb": "10 cards, ready now",
+   "renamed_from": "household-chiang-mai-dates-deck-outdoors-dinner"
   },
   {
    "id": "household-trips-near-far-deck-far-away-nearby-countries",
@@ -100,28 +102,30 @@
    "blurb": "10 cards, ready now"
   },
   {
-   "id": "household-maple-play-days-deck-hands-outings",
+   "id": "household-maple-play-days-deck-movement-sounds-deck",
    "name": "Maple Play: Movement & Sounds",
-   "url": "https://webermanapps.github.io/style-swipe/household-maple-play-days-deck-hands-outings-ppbyer/",
+   "url": "https://webermanapps.github.io/style-swipe/household-maple-play-days-deck-movement-sounds-deck-w774s3/",
    "total": 10,
    "topic": "household-maple",
    "added": "2026-10-17T08:05:35+07:00",
    "tag": "Maple",
    "answered": 0,
    "split_from": "household-maple-play-days-deck",
-   "blurb": "10 cards, ready now"
+   "blurb": "10 cards, ready now",
+   "renamed_from": "household-maple-play-days-deck-hands-outings"
   },
   {
-   "id": "household-maple-play-days-deck-movement-sounds",
+   "id": "household-maple-play-days-deck-hands-outings-deck",
    "name": "Maple Play: Hands & Outings",
-   "url": "https://webermanapps.github.io/style-swipe/household-maple-play-days-deck-movement-sounds-7s1heq/",
+   "url": "https://webermanapps.github.io/style-swipe/household-maple-play-days-deck-hands-outings-deck-bwxxgh/",
    "total": 10,
    "topic": "household-maple",
    "added": "2026-10-17T08:05:35+07:00",
    "tag": "Maple",
    "answered": 0,
    "split_from": "household-maple-play-days-deck",
-   "blurb": "10 cards, ready now"
+   "blurb": "10 cards, ready now",
+   "renamed_from": "household-maple-play-days-deck-movement-sounds"
   }
  ],
  "done": [
@@ -142,7 +146,7 @@
    "results": "/workspace/style-swipe/results/household-maple-deck.txt"
   }
  ],
- "updated": "2026-10-17T08:05:35+07:00",
+ "updated": "2026-10-17T09:55:08+07:00",
  "replaced": [
   {
    "id": "household-art",
@@ -225,8 +229,8 @@
    "blurb": "20 new cards, ready now",
    "unlisted_at": "2026-10-17T08:05:35+07:00",
    "split_into": [
-    "household-chiang-mai-dates-deck-activities-culture",
-    "household-chiang-mai-dates-deck-outdoors-dinner"
+    "household-chiang-mai-dates-deck-outdoors-dinner-deck",
+    "household-chiang-mai-dates-deck-activities-culture-deck"
    ],
    "note": "R86 (Max Oct 17 2026 07:50 ICT): unanswered 20-pick deck split into two 10-pick decks; original unlisted (page, file and any votes kept)"
   },
@@ -257,8 +261,8 @@
    "blurb": "20 new cards for an 8-month-old",
    "unlisted_at": "2026-10-17T08:05:35+07:00",
    "split_into": [
-    "household-maple-play-days-deck-hands-outings",
-    "household-maple-play-days-deck-movement-sounds"
+    "household-maple-play-days-deck-movement-sounds-deck",
+    "household-maple-play-days-deck-hands-outings-deck"
    ],
    "note": "R86 (Max Oct 17 2026 07:50 ICT): unanswered 20-pick deck split into two 10-pick decks; original unlisted (page, file and any votes kept)"
   }
