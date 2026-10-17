@@ -28,104 +28,100 @@
    "blurb": "10 cards, ready now"
   },
   {
-   "id": "household-home-routines-deck-who-owns-what-help-areas",
-   "name": "Home Routines: Who Owns What & Help Areas",
-   "url": "https://webermanapps.github.io/style-swipe/household-home-routines-deck-who-owns-what-help-areas-iezpk8/",
-   "total": 10,
-   "topic": "household-home-setup",
-   "added": "2026-10-17T08:05:35+07:00",
-   "tag": "Home Setup",
-   "answered": 0,
-   "split_from": "household-home-routines-deck",
-   "blurb": "10 cards, ready now"
-  },
-  {
-   "id": "household-home-routines-deck-reminders-home-systems",
-   "name": "Home Routines: Reminders & Home Systems",
-   "url": "https://webermanapps.github.io/style-swipe/household-home-routines-deck-reminders-home-systems-1cn20x/",
-   "total": 10,
-   "topic": "household-home-setup",
-   "added": "2026-10-17T08:05:35+07:00",
-   "tag": "Home Setup",
-   "answered": 0,
-   "split_from": "household-home-routines-deck",
-   "blurb": "10 cards, ready now"
-  },
-  {
-   "id": "household-chiang-mai-dates-deck-outdoors-dinner-deck",
-   "name": "Date Ideas: Outdoors & Dinner",
-   "url": "https://webermanapps.github.io/style-swipe/household-chiang-mai-dates-deck-outdoors-dinner-deck-1op4ga/",
-   "total": 10,
-   "topic": "household-date-night",
-   "added": "2026-10-17T08:05:35+07:00",
-   "tag": "Date Night",
-   "answered": 0,
-   "split_from": "household-chiang-mai-dates-deck",
-   "blurb": "10 cards, ready now",
-   "renamed_from": "household-chiang-mai-dates-deck-activities-culture"
-  },
-  {
-   "id": "household-chiang-mai-dates-deck-activities-culture-deck",
-   "name": "Date Ideas: Activities & Culture",
-   "url": "https://webermanapps.github.io/style-swipe/household-chiang-mai-dates-deck-activities-culture-deck-b4e491/",
-   "total": 10,
-   "topic": "household-date-night",
-   "added": "2026-10-17T08:05:35+07:00",
-   "tag": "Date Night",
-   "answered": 0,
-   "split_from": "household-chiang-mai-dates-deck",
-   "blurb": "10 cards, ready now",
-   "renamed_from": "household-chiang-mai-dates-deck-outdoors-dinner"
-  },
-  {
-   "id": "household-trips-near-far-deck-far-away-nearby-countries",
-   "name": "Trips: Far Away & Nearby Countries",
-   "url": "https://webermanapps.github.io/style-swipe/household-trips-near-far-deck-far-away-nearby-countries-8bqhkm/",
+   "id": "household-jakarta-trip-culture-food",
+   "name": "Jakarta Trip: Culture, Parks & Food",
+   "url": "https://webermanapps.github.io/style-swipe/household-jakarta-trip-culture-food-v2n5nj/",
    "total": 10,
    "topic": "household-travel",
-   "added": "2026-10-17T08:05:35+07:00",
+   "added": "2026-10-17T20:43:25+07:00",
    "tag": "Travel",
    "answered": 0,
-   "split_from": "household-trips-near-far-deck",
-   "blurb": "10 cards, ready now"
+   "blurb": "10 cards, ready now",
+   "round": "household-refresh-2026-10-17"
   },
   {
-   "id": "household-trips-near-far-deck-close-by-trip-style",
-   "name": "Trips: Close By & Trip Style",
-   "url": "https://webermanapps.github.io/style-swipe/household-trips-near-far-deck-close-by-trip-style-1ep7ni/",
+   "id": "household-home-routines-weekly-rhythm",
+   "name": "Home Routines: Weekly Rhythm & Resets",
+   "url": "https://webermanapps.github.io/style-swipe/household-home-routines-weekly-rhythm-qe9odw/",
+   "total": 10,
+   "topic": "household-home-setup",
+   "added": "2026-10-17T20:43:25+07:00",
+   "tag": "Home Setup",
+   "answered": 0,
+   "blurb": "10 cards, ready now",
+   "round": "household-refresh-2026-10-17"
+  },
+  {
+   "id": "household-chiang-mai-dates-markets-northern-food",
+   "name": "Chiang Mai Dates: Markets & Northern Food",
+   "url": "https://webermanapps.github.io/style-swipe/household-chiang-mai-dates-markets-northern-food-d0npwy/",
+   "total": 10,
+   "topic": "household-date-night",
+   "added": "2026-10-17T20:43:25+07:00",
+   "tag": "Date Night",
+   "answered": 0,
+   "blurb": "10 cards, ready now",
+   "round": "household-refresh-2026-10-17"
+  },
+  {
+   "id": "household-chiang-mai-dates-temples-villages",
+   "name": "Chiang Mai Dates: Temples, Villages & Waterfalls",
+   "url": "https://webermanapps.github.io/style-swipe/household-chiang-mai-dates-temples-villages-w8mn0w/",
+   "total": 10,
+   "topic": "household-date-night",
+   "added": "2026-10-17T20:43:25+07:00",
+   "tag": "Date Night",
+   "answered": 0,
+   "blurb": "10 cards, ready now",
+   "round": "household-refresh-2026-10-17"
+  },
+  {
+   "id": "household-northern-thailand-trips-towns-peaks",
+   "name": "Northern Thailand Trips: Old Towns, Peaks & The Mekong",
+   "url": "https://webermanapps.github.io/style-swipe/household-northern-thailand-trips-towns-peaks-wzf2c5/",
    "total": 10,
    "topic": "household-travel",
-   "added": "2026-10-17T08:05:35+07:00",
+   "added": "2026-10-17T20:43:25+07:00",
    "tag": "Travel",
    "answered": 0,
-   "split_from": "household-trips-near-far-deck",
-   "blurb": "10 cards, ready now"
+   "blurb": "10 cards, ready now",
+   "round": "household-refresh-2026-10-17"
   },
   {
-   "id": "household-maple-play-days-deck-movement-sounds-deck",
-   "name": "Maple Play: Movement & Sounds",
-   "url": "https://webermanapps.github.io/style-swipe/household-maple-play-days-deck-movement-sounds-deck-w774s3/",
+   "id": "household-far-trips-old-cities-wild-places",
+   "name": "Far Trips: Old Cities & Wild Places",
+   "url": "https://webermanapps.github.io/style-swipe/household-far-trips-old-cities-wild-places-1vtnwf/",
    "total": 10,
-   "topic": "household-maple",
-   "added": "2026-10-17T08:05:35+07:00",
-   "tag": "Maple",
+   "topic": "household-travel",
+   "added": "2026-10-17T20:43:25+07:00",
+   "tag": "Travel",
    "answered": 0,
-   "split_from": "household-maple-play-days-deck",
    "blurb": "10 cards, ready now",
-   "renamed_from": "household-maple-play-days-deck-hands-outings"
+   "round": "household-refresh-2026-10-17"
   },
   {
-   "id": "household-maple-play-days-deck-hands-outings-deck",
-   "name": "Maple Play: Hands & Outings",
-   "url": "https://webermanapps.github.io/style-swipe/household-maple-play-days-deck-hands-outings-deck-bwxxgh/",
+   "id": "household-maple-play-senses-little-hands",
+   "name": "Maple Play: Senses & Little Hands",
+   "url": "https://webermanapps.github.io/style-swipe/household-maple-play-senses-little-hands-0rlswn/",
    "total": 10,
    "topic": "household-maple",
-   "added": "2026-10-17T08:05:35+07:00",
+   "added": "2026-10-17T20:43:25+07:00",
    "tag": "Maple",
    "answered": 0,
-   "split_from": "household-maple-play-days-deck",
    "blurb": "10 cards, ready now",
-   "renamed_from": "household-maple-play-days-deck-movement-sounds"
+   "round": "household-refresh-2026-10-17"
+  },
+  {
+   "id": "household-art-from-asia-sculpture-objects",
+   "name": "Art From Asia: Sculpture & Objects",
+   "url": "https://webermanapps.github.io/style-swipe/household-art-from-asia-sculpture-objects-xl1lev/",
+   "total": 10,
+   "topic": "household-art",
+   "added": "2026-10-17T20:43:25+07:00",
+   "tag": "Art",
+   "answered": 0,
+   "blurb": "10 cards, ready now",
+   "round": "household-refresh-2026-10-17"
   }
  ],
  "done": [
@@ -146,7 +142,7 @@
    "results": "/workspace/style-swipe/results/household-maple-deck.txt"
   }
  ],
- "updated": "2026-10-17T09:55:08+07:00",
+ "updated": "2026-10-17T20:43:25+07:00",
  "replaced": [
   {
    "id": "household-art",
@@ -181,6 +177,62 @@
    "name": "Maple Deck",
    "url": "https://webermanapps.github.io/style-swipe/household-maple-baby-yif5ah/",
    "at": "2026-10-16T12:20:00+07:00",
+   "status": "Replaced by fresh round (no results on file)"
+  },
+  {
+   "id": "household-home-routines-deck-who-owns-what-help-areas",
+   "name": "Home Routines: Who Owns What & Help Areas",
+   "url": "https://webermanapps.github.io/style-swipe/household-home-routines-deck-who-owns-what-help-areas-iezpk8/",
+   "at": "2026-10-17T20:43:25+07:00",
+   "status": "Replaced by fresh round (no results on file)"
+  },
+  {
+   "id": "household-home-routines-deck-reminders-home-systems",
+   "name": "Home Routines: Reminders & Home Systems",
+   "url": "https://webermanapps.github.io/style-swipe/household-home-routines-deck-reminders-home-systems-1cn20x/",
+   "at": "2026-10-17T20:43:25+07:00",
+   "status": "Replaced by fresh round (no results on file)"
+  },
+  {
+   "id": "household-chiang-mai-dates-deck-outdoors-dinner-deck",
+   "name": "Date Ideas: Outdoors & Dinner",
+   "url": "https://webermanapps.github.io/style-swipe/household-chiang-mai-dates-deck-outdoors-dinner-deck-1op4ga/",
+   "at": "2026-10-17T20:43:25+07:00",
+   "status": "Replaced by fresh round (no results on file)"
+  },
+  {
+   "id": "household-chiang-mai-dates-deck-activities-culture-deck",
+   "name": "Date Ideas: Activities & Culture",
+   "url": "https://webermanapps.github.io/style-swipe/household-chiang-mai-dates-deck-activities-culture-deck-b4e491/",
+   "at": "2026-10-17T20:43:25+07:00",
+   "status": "Replaced by fresh round (no results on file)"
+  },
+  {
+   "id": "household-trips-near-far-deck-far-away-nearby-countries",
+   "name": "Trips: Far Away & Nearby Countries",
+   "url": "https://webermanapps.github.io/style-swipe/household-trips-near-far-deck-far-away-nearby-countries-8bqhkm/",
+   "at": "2026-10-17T20:43:25+07:00",
+   "status": "Replaced by fresh round (no results on file)"
+  },
+  {
+   "id": "household-trips-near-far-deck-close-by-trip-style",
+   "name": "Trips: Close By & Trip Style",
+   "url": "https://webermanapps.github.io/style-swipe/household-trips-near-far-deck-close-by-trip-style-1ep7ni/",
+   "at": "2026-10-17T20:43:25+07:00",
+   "status": "Replaced by fresh round (no results on file)"
+  },
+  {
+   "id": "household-maple-play-days-deck-movement-sounds-deck",
+   "name": "Maple Play: Movement & Sounds",
+   "url": "https://webermanapps.github.io/style-swipe/household-maple-play-days-deck-movement-sounds-deck-w774s3/",
+   "at": "2026-10-17T20:43:25+07:00",
+   "status": "Replaced by fresh round (no results on file)"
+  },
+  {
+   "id": "household-maple-play-days-deck-hands-outings-deck",
+   "name": "Maple Play: Hands & Outings",
+   "url": "https://webermanapps.github.io/style-swipe/household-maple-play-days-deck-hands-outings-deck-bwxxgh/",
+   "at": "2026-10-17T20:43:25+07:00",
    "status": "Replaced by fresh round (no results on file)"
   }
  ],
@@ -270,5 +322,42 @@
  "cap": 10,
  "cap_note": "R86 (Max Oct 17 2026 07:50 ICT): every shelf shows up to 10 decks (pinned included), 10 picks per deck; in-progress first, done last (kit deck-shelf.js sort)",
  "held": [],
- "queued": []
+ "queued": [
+  {
+   "id": "household-home-systems-kitchen-storage",
+   "name": "Home Systems: Kitchen, Storage & Supplies",
+   "url": "https://webermanapps.github.io/style-swipe/household-home-systems-kitchen-storage-71zp2z/",
+   "total": 10,
+   "topic": "household-home-setup",
+   "added": "2026-10-17T20:43:25+07:00",
+   "tag": "Home Setup",
+   "answered": 0,
+   "blurb": "10 cards, ready now",
+   "round": "household-refresh-2026-10-17"
+  },
+  {
+   "id": "household-maple-days-moving-talking-rhythm",
+   "name": "Maple Days: Moving, Talking & Daily Rhythm",
+   "url": "https://webermanapps.github.io/style-swipe/household-maple-days-moving-talking-rhythm-p2vffp/",
+   "total": 10,
+   "topic": "household-maple",
+   "added": "2026-10-17T20:43:25+07:00",
+   "tag": "Maple",
+   "answered": 0,
+   "blurb": "10 cards, ready now",
+   "round": "household-refresh-2026-10-17"
+  },
+  {
+   "id": "household-art-craft-textiles-design",
+   "name": "Art: Quilts, Glass, Photographs & Design",
+   "url": "https://webermanapps.github.io/style-swipe/household-art-craft-textiles-design-g9krhf/",
+   "total": 10,
+   "topic": "household-art",
+   "added": "2026-10-17T20:43:25+07:00",
+   "tag": "Art",
+   "answered": 0,
+   "blurb": "10 cards, ready now",
+   "round": "household-refresh-2026-10-17"
+  }
+ ]
 }
