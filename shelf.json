@@ -2,6 +2,60 @@
  "agent": "household",
  "decks": [
   {
+   "id": "household-maple-play-learning-deck-52opn9",
+   "name": "Maple Play & Learning",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/household-maple-play-learning-deck-52opn9/",
+   "total": 10,
+   "topic": "household-maple",
+   "added": "2026-10-27T15:39:18+07:00",
+   "tag": "Maple",
+   "pinned": true,
+   "answered": 0,
+   "requested": true,
+   "requested_at": "2026-10-27T15:39:15+07:00",
+   "blurb": "10 cards, ready now, with Notes",
+   "new": true,
+   "agent": "household",
+   "made": "2026-10-27",
+   "note": "Machan Oct 27 ~3:30 ICT continue Household: Maple Play & Learning, Rainy-Day Kit Chiang Mai, Day Trips Chiang Mai. Agent=household. Schedule Setup already live — not rebuilt."
+  },
+  {
+   "id": "household-rainy-day-kit-chiang-mai-deck-8ixe50",
+   "name": "Rainy-Day Kit — Chiang Mai",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/household-rainy-day-kit-chiang-mai-deck-8ixe50/",
+   "total": 10,
+   "topic": "household-rainy-day",
+   "added": "2026-10-27T15:39:18+07:00",
+   "tag": "Rainy Day",
+   "pinned": true,
+   "answered": 0,
+   "requested": true,
+   "requested_at": "2026-10-27T15:39:15+07:00",
+   "blurb": "10 cards, ready now, with Notes",
+   "new": true,
+   "agent": "household",
+   "made": "2026-10-27",
+   "note": "Machan Oct 27 ~3:30 ICT continue Household: Maple Play & Learning, Rainy-Day Kit Chiang Mai, Day Trips Chiang Mai. Agent=household. Schedule Setup already live — not rebuilt."
+  },
+  {
+   "id": "household-day-trips-chiang-mai-deck-x1qga4",
+   "name": "Day Trips — Chiang Mai",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/household-day-trips-chiang-mai-deck-x1qga4/",
+   "total": 10,
+   "topic": "household-day-trips",
+   "added": "2026-10-27T15:39:18+07:00",
+   "tag": "Day Trips",
+   "pinned": true,
+   "answered": 0,
+   "requested": true,
+   "requested_at": "2026-10-27T15:39:15+07:00",
+   "blurb": "10 cards, ready now, with Notes",
+   "new": true,
+   "agent": "household",
+   "made": "2026-10-27",
+   "note": "Machan Oct 27 ~3:30 ICT continue Household: Maple Play & Learning, Rainy-Day Kit Chiang Mai, Day Trips Chiang Mai. Agent=household. Schedule Setup already live — not rebuilt."
+  },
+  {
    "id": "jakarta-trip",
    "name": "Jakarta Trip",
    "url": "https://webermanapps.github.io/style-swipe/jakarta-trip-j9018h/",
@@ -33,7 +87,7 @@
    "results": "/workspace/style-swipe/results/household-maple-deck.txt"
   }
  ],
- "updated": "2026-10-17T20:43:25+07:00",
+ "updated": "2026-10-27T15:39:18+07:00",
  "replaced": [
   {
    "id": "household-art",
