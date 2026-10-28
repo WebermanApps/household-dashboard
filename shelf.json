@@ -2,6 +2,24 @@
  "agent": "household",
  "decks": [
   {
+   "id": "house-art-taste-deck-de88b3",
+   "name": "House Art Taste",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/house-art-taste-deck-de88b3/",
+   "total": 12,
+   "topic": "household-art",
+   "added": "2026-10-28T14:34:18+07:00",
+   "tag": "Decor",
+   "pinned": true,
+   "answered": 0,
+   "requested": true,
+   "requested_at": "2026-10-28T14:34:17+07:00",
+   "blurb": "12 cards · 24 unique visuals · couple house-art taste · gate OK",
+   "new": true,
+   "agent": "household",
+   "made": "2026-10-27",
+   "note": "Machan Oct 28 ~2:30 PM ICT — NEW house art / decor style swipe for couple later. submit_agent household. Not architecture, not UpKeep."
+  },
+  {
    "id": "household-schedule-week-sync-deck-b78018",
    "name": "Schedule — Week & Sync",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/household-schedule-week-sync-deck-b78018/",
@@ -105,7 +123,7 @@
    "results": "/workspace/style-swipe/results/household-maple-deck.txt"
   }
  ],
- "updated": "2026-10-27T16:01:27+07:00",
+ "updated": "2026-10-28T14:34:18+07:00",
  "replaced": [
   {
    "id": "household-art",
